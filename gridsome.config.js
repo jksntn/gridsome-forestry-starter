@@ -4,7 +4,7 @@
 module.exports = {
   siteName: "Megapiksel",
   siteUrl: `https://megapiksel.id`,
-  titleTemplate: "%s - Megapiksel",
+  titleTemplate: "%s",
   siteDescription: "Creative technologist",
   plugins: [
     {
