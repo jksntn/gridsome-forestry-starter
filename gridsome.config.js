@@ -2,9 +2,9 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Nichlas W. Andersen",
-  siteUrl: `https://www.itsnwa.com`,
-  titleTemplate: "%s - NWA",
+  siteName: "Megapiksel",
+  siteUrl: `https://megapiksel.id`,
+  titleTemplate: "%s - Megapiksel",
   siteDescription: "Creative technologist",
   plugins: [
     {
